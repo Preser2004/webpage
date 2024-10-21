@@ -1,0 +1,33 @@
+body h1{
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+
+}
+body p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.prep{
+    border: solid white;
+    background-color: rgb(238, 231, 232);
+    padding: 20px;
+    display: block;
+}
+.Ingredients{
+    h2{
+        color: green;
+    }
+    padding: 15px;
+
+}
+.ins{
+    h2{
+        color: green;
+    }
+}
+.Nutrition{
+    h2{
+        color: green;
+    }
+    padding: 30px;
+}
